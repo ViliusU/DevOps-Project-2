@@ -1,8 +1,8 @@
 terraform {
   cloud {
-    organization = "aalok-trivedi"
+    organization = "Vilius-Organization"
     workspaces {
-      name = "wordpress_app_us_east_1_DEV"
+      name = "WordPress_app_us_north_1_DEV"
     }
   }
   required_version = ">=1.4.2"
